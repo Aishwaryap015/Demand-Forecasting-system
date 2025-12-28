@@ -145,6 +145,6 @@ jupyter notebook
 
 Aishwarya Priydarshni
 Aspiring Data Scientist | Python | Time Series | 
-⭐ Final Note
 
+⭐ Final Note
 This project showcases real-world demand forecasting skills used across retail, FMCG, and logistics industries, with a strong focus on business impact and analytical rigor.
